@@ -1,0 +1,5 @@
+1.win+r
+2.regedit
+3.HKEY_USERS-.DEFAULT-Control Panel-Keyboard
+4.右键InitialKeyboardIndicators 修改
+5.数值改为：80000002
