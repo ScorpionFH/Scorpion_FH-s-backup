@@ -1,0 +1,24 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Nls\CodePage]
+"ACP"="65001"
+"OEMCP"="65001"
+"MACCP"="65001"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont]
+"65001"="*新宋体"
+
+[HKEY_CURRENT_USER\Console\%SystemRoot%_system32_cmd.exe]
+"FaceName"=-
+"FontFamily"=-
+"FontWeight"=-
+
+[HKEY_CURRENT_USER\Console\%SystemRoot%_System32_WindowsPowerShell_v1.0_powershell.exe]
+"FaceName"=-
+"FontFamily"=-
+"FontWeight"=-
+
+[HKEY_CURRENT_USER\Console\%SystemRoot%_SysWOW64_WindowsPowerShell_v1.0_powershell.exe]
+"FaceName"=-
+"FontFamily"=-
+"FontWeight"=-
